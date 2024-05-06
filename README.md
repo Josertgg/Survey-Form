@@ -19,7 +19,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://josertgg.github.io/odin-recipes/)
+[Live Demo Link](https://josertgg.github.io/Survey-Form/)
 
 
 ## Getting Started
